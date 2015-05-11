@@ -6,7 +6,7 @@ public class EdatPersona {
 	    private Scanner teclado;
 	    private String nombre;
 	    private int edad;
-	    
+	    //ljfhljadgbldarbgbekjg
 	    public void inicializar() {
 	        teclado=new Scanner(System.in);
 	        System.out.print("Ingrese nombre:");
