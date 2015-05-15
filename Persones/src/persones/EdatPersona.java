@@ -2,7 +2,7 @@ package persones;
 import java.util.Scanner;
 
 public class EdatPersona {
-	
+	///cambio que realiza iban el master
 	    private Scanner teclado;
 	    private String nombre;
 	    private int edad;
